@@ -11,7 +11,7 @@
     "fh-component-metrics": "2.4.0",
     "fh-db": "1.2.5",
     "fh-mbaas-client": "0.15.0",
-    "fh-mbaas-express": "5.6.6",
+    "fh-mbaas-express": "git://github.com/grdryn/fh-mbaas-express.git#277eb794441120a2adb36b95cc36a4d82838acf0",
     "fh-security": "0.2.0",
     "fh-statsc": "0.3.0",
     "lodash-contrib": "^393.0.1",
